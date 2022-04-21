@@ -1,0 +1,23 @@
+{
+  "name": "nhp-to-5",
+  "version": "1.0.0",
+  "description": "node-html-parser のバージョンを確かめる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/nhp-to-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/nhp-to-5/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/nhp-to-5#readme",
+  "workspaces": [
+    "packages/v1",
+    "packages/v5"
+  ]
+}
