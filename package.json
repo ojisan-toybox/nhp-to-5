@@ -19,5 +19,8 @@
   "workspaces": [
     "packages/v1",
     "packages/v5"
-  ]
+  ],
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
 }

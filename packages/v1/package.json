@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ojisan-toybox/nhp-to-5/issues"
   },
-  "homepage": "https://github.com/ojisan-toybox/nhp-to-5#readme"
+  "homepage": "https://github.com/ojisan-toybox/nhp-to-5#readme",
+  "dependencies": {
+    "node-html-parser": "^1.4.8"
+  }
 }
